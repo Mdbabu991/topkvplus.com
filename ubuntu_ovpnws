@@ -1,9 +1,0 @@
-#!/bin/bash
-#Script Variables
-HOST='174.138.187.131';
-USER='etytechn_topkvplus';
-PASS='etytechn_topkvplus';
-DBNAME='etytechn_topkvplus';
-PORT_TCP='1194';
-PORT_UDP='53';
-404: Not Found
